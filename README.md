@@ -138,6 +138,25 @@
 <hr>
 <br>
  📈 GitHub Activity:
+  <br>
+   <br>
+    <p align="center">
+   <img width="98%" height="130%" src="https://activity-graph.herokuapp.com/graph?username=19101019&theme=react-dark"></p>
+
+   
+   <p align="left">
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=19101019&theme=neon-dark" />
+    </p>
+   
+   
+   
+ 
+   
+   
+   
+   
+   
+
   <p align="center"> <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=anastasia-go&show_icons=true&theme=radical" />
   <img height="186px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-go&layout=compact&theme=radical" />
 
@@ -177,7 +196,7 @@ VS Code                  4 hrs 16 mins       ███████████�
 <hr>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
+  <img src="https://profile-counter.glitch.me/19101019/count.svg" />
 </p>
   
   ### 🤝🏻 &nbsp;Connect with Me
