@@ -1,5 +1,5 @@
 # Hey Everyone! I'm [Swati Mandal!](https://github.com/19101019) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br><br>
+<br>
 
 <a href="www.linkedin.com/in/the-rebellious-ana">
   <img align="left" alt="swati's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -30,7 +30,7 @@
   <img align="left" alt="swati's mail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br><br><br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 <hr> <p align="center"><h4 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁  & A Competitive Programmer </samp></h4></p>
