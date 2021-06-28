@@ -171,5 +171,13 @@ VS Code                  4 hrs 16 mins       ███████████�
   <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
 </p>
   
+  ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/-satakshigarg.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/the-rebellious-ana"><img src="https://img.shields.io/badge/-Satakshi%20Garg-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:swatimandal01@gmail.com"><img src="https://img.shields.io/badge/-iamsatakshigarg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+  
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
