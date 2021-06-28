@@ -2,7 +2,7 @@
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I'm Swati Mandal</samp></h1></p>
 <p align="center"><h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h3></p>
-<br><p align="center">
+<br>
 <a href="www.linkedin.com/in/the-rebellious-ana">
   <img align="left" alt="swati's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -174,9 +174,9 @@ VS Code                  4 hrs 16 mins       ███████████�
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/-satakshigarg.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/the-rebellious-ana"><img src="https://img.shields.io/badge/-Satakshi%20Garg-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:swatimandal01@gmail.com"><img src="https://img.shields.io/badge/-iamsatakshigarg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-swatimandal.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="www.linkedin.com/in/the-rebellious-ana"><img src="https://img.shields.io/badge/-Swati%20Mandal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:swatimandal01@gmail.com"><img src="https://img.shields.io/badge/-swatimandal01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
