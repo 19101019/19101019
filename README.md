@@ -4,9 +4,14 @@
 
 
 <p align="center">
-<h3>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Web+Developer;An+Open+Source+Contributor;Hackathon+Lover;UI+designer+and+developer+☁;Always+Learning&center=true&width=380&height=45"></a></h3>
-</p>
+  
+  
+  
+  
+  <h3 align="center"><samp> An Aspiring Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h4></p>
+   
 
+<br>
 
 <a href="www.linkedin.com/in/the-rebellious-ana">
   <img align="left" alt="swati's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
