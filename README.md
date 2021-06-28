@@ -1,3 +1,4 @@
+<img align="center" width="1100" height = "350" src="git.gif">
 # Hey Everyone! I'm [Swati Mandal!](https://github.com/19101019) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
@@ -48,6 +49,7 @@
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am quite determined, focused annd happy-go-luck person.
 - ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
 </div>
+<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/>
 
 <hr>
 <h3><b><samp>Skills and Languages</samp></b></h3>
