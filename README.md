@@ -1,9 +1,10 @@
 <img align="center" width="1100" height = "350" src="git.gif">
-# Hey Everyone! I'm [Swati Mandal!](https://github.com/19101019) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-
-
+<p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
+<p align="center"><h1 align="center"><samp> I'm Swati Mandal</samp></h1></p>
+<p align="center"><h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h3></p>
+<br><p align="center">
 <a href="www.linkedin.com/in/the-rebellious-ana">
-  <img align="left" alt="swati's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="swati's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/19101019">
   <img align="left" alt="swati's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
@@ -20,21 +21,22 @@
 <a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
+
 <a href="https://www.hackerrank.com/h19101019">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
-<a href="#">
-  <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
 <a href="mailto:swatimandal01@gmail.com">
   <img align="left" alt="swati's mail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-<br><br><br><br>
+  
+  
+  
+  <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-<hr> <p align="center"><h4 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁  & A Competitive Programmer </samp></h4></p>
+
+  
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
@@ -49,7 +51,7 @@
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am quite determined, focused annd happy-go-luck person.
 - ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
 </div>
-<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/>
+
 
 <hr>
 <h3><b><samp>Skills and Languages</samp></b></h3>
@@ -103,7 +105,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+
   
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
