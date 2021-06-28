@@ -36,8 +36,7 @@
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <a href="mailto:swatimandal01@gmail.com">
-  <img align="left" alt="swati's mail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+
 
   
   
