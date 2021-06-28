@@ -143,10 +143,10 @@
    <img width="98%" height="130%" src="https://activity-graph.herokuapp.com/graph?username=19101019&theme=react-dark"/></p>
    
   <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=19101019&show_icons=true&theme=react">
-  <p >
-   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=19101019&theme=react" />
-  <img height="186px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=19101019&layout=compact&theme=react" />
-   </p>
+  <p align="center">
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=19101019&theme=react" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=19101019&layout=compact&theme=react" />
+  </p>
 
 </p><hr>
 **I'm an Early 🐤** 
