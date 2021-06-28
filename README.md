@@ -1,8 +1,13 @@
 <img align="center" width="1100" height = "350" src="git.gif">
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
 <p align="center"><h1 align="center"><samp> I'm Swati Mandal</samp></h1></p>
-<p align="center"><h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor, UI designer and developer ☁</samp></h3></p>
-<br>
+
+
+<p align="center">
+<h3>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Full+Stack+Web+Developer;An+Open+Source+Contributor;Hackathon+Lover;UI+designer+and+developer+☁;Always+Learning&center=true&width=380&height=45"></a></h3>
+</p>
+
+
 <a href="www.linkedin.com/in/the-rebellious-ana">
   <img align="left" alt="swati's Linkdein" align= width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
