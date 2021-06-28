@@ -100,7 +100,7 @@
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  </span><br>
+  </span><br><br><br>
 <hr>
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
@@ -115,7 +115,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
 
-  
+  <br>
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
@@ -125,7 +125,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>
+</span><br>
 <hr> 
 
    Spotify Playing 🎧
@@ -136,7 +136,7 @@
  
   
 <hr>
-
+<br>
  📈 GitHub Activity:
   <p align="center"> <img height="170px"  src="https://github-readme-stats.vercel.app/api?username=anastasia-go&show_icons=true&theme=radical" />
   <img height="186px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasia-go&layout=compact&theme=radical" />
